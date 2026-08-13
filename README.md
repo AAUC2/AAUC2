@@ -19,6 +19,6 @@
 
 ```powershell
 [CyRC-AAU Architecture]
-├── write-ups
+├── writeups
 ├── Vulnerability Research & PoCs
 └── Engineering & Tooling

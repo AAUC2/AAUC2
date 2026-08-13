@@ -15,7 +15,8 @@
 ### 📡 // CENTER OVERVIEW
 
 ```powershell
-[CyRC-AAU Architecture]
+[AAUC2 Architecture]
 ├── writeups
-├── Vulnerability Research & PoCs
-└── Engineering & Tooling
+├── vuln-intel
+└── sec-tools
+
